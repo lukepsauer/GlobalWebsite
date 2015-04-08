@@ -1,0 +1,38 @@
+body {
+    padding-top: 50px;
+    background-color: #dfdfdf;
+}
+
+nav {
+    margin-left: -1px;
+    margin-right: -1px;
+
+}
+
+.source {
+    padding-top: 10px;
+}
+.image-front1{
+    width:450px;
+
+    border-radius: 50px;
+}
+.width1 {
+    text-align: center;
+    width: 375px;
+   padding-left: 55px;
+}
+
+.width2 {
+    text-align: center;
+    width: 375px;
+
+    padding-right: 75px;
+}
+.parg {
+line-height: 200%;
+}
+
+/* Red */
+
+/* --- Style --- */
