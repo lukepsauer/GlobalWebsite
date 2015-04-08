@@ -4,6 +4,3 @@ source 'http://rubygems.org'
 gem 'sinatra'
 gem 'rake'
 
-# Sequel ORM
-gem 'sequel'
-gem 'sqlite3'
